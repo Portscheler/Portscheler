@@ -1,6 +1,6 @@
 #SOBRE MIM
 
-- 👋 Olá, meu nome é @Portscheler
+- 👋 Olá, meu nome é **@Portscheler**
 - 👀 Estou interessado em ensinar meus alunos.
 - 🌱 Estou aprendendo a programar para isso.
 
