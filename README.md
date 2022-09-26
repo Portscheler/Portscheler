@@ -1,6 +1,6 @@
-#SOBRE MIM
-
+# SOBRE MIM
 - 👋 Olá, meu nome é **@Portscheler**
+- :+1: Meu e-mail de contato é johann.portscheler@escola.pr.gov.br
 - 👀 Estou interessado em ensinar meus alunos.
 - 🌱 Estou aprendendo a programar para isso.
 
